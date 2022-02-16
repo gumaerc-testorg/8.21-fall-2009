@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 2b63c496-31cb-987e-8414-075b56493d1b
 ---
@@ -92,7 +95,7 @@ Quantum mechanics I: Intro to the quantum, energy quantization (![This resource 
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Energy in chemical systems and processes, flow of CO2 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 4.0MB]({{< baseurl >}}/resources/mit8_21s09_lec07))
+Energy in chemical systems and processes, flow of CO{{< sub "2" >}} (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 4.0MB]({{< baseurl >}}/resources/mit8_21s09_lec07))
 {{< tdclose >}}
 
 {{< trclose >}}
