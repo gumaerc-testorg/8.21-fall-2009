@@ -35,7 +35,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction ([PDF - 1.8MB]({{< baseurl >}}/resources/mit8_21s09_lec01))
+Introduction ({{% resource_link 556f9fb1-12b6-3651-f88d-befdf0dad660 "PDF - 1.8MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -50,7 +50,7 @@ Introduction ([PDF - 1.8MB]({{< baseurl >}}/resources/mit8_21s09_lec01))
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Units and scales of energy use (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.1MB]({{< baseurl >}}/resources/mit8_21s09_lec02))
+Units and scales of energy use (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 76bb428d-6455-f676-9501-ff959cc28fee "PDF - 1.1MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -59,7 +59,7 @@ Units and scales of energy use (![This resource may not render correctly in a sc
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Mechanical energy and transport ([PDF]({{< baseurl >}}/resources/mit8_21s09_lec03))
+Mechanical energy and transport ({{% resource_link f311bba4-7ac4-c587-f538-6fc2f1f644b6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -68,7 +68,7 @@ Mechanical energy and transport ([PDF]({{< baseurl >}}/resources/mit8_21s09_lec0
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Heat energy: Conversion between heat and mechanical energy ([PDF ‑ 2.9MB]({{< baseurl >}}/resources/mit8_21s09_lec04))
+Heat energy: Conversion between heat and mechanical energy ({{% resource_link c5335432-0a73-8e2b-43ce-891740f1c79a "PDF ‑ 2.9MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -77,7 +77,7 @@ Heat energy: Conversion between heat and mechanical energy ([PDF ‑ 2.9MB]({{
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Electromagnetic energy: Storage, conversion, transmission and radiation (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 7.7MB]({{< baseurl >}}/resources/mit8_21s09_lec05))
+Electromagnetic energy: Storage, conversion, transmission and radiation (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 8c884a2a-d2db-d3fe-7d76-25798d74ad8e "PDF - 7.7MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -86,7 +86,7 @@ Electromagnetic energy: Storage, conversion, transmission and radiation (![This
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Quantum mechanics I: Intro to the quantum, energy quantization (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit8_21s09_lec06))
+Quantum mechanics I: Intro to the quantum, energy quantization (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 1be66135-d420-fdb3-b5ec-0c84743d9b34 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -95,7 +95,7 @@ Quantum mechanics I: Intro to the quantum, energy quantization (![This resource 
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Energy in chemical systems and processes, flow of CO{{< sub "2" >}} (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 4.0MB]({{< baseurl >}}/resources/mit8_21s09_lec07))
+Energy in chemical systems and processes, flow of CO{{< sub "2" >}} (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 04f08eb5-8320-ae3d-6545-a493e4a32013 "PDF - 4.0MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -104,7 +104,7 @@ Energy in chemical systems and processes, flow of CO{{< sub "2" >}} (![This res
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Entropy and temperature (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit8_21s09_lec08))
+Entropy and temperature (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 64480493-c348-b180-53c7-23da0d41e264 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -113,7 +113,7 @@ Entropy and temperature (![This resource may not render correctly in a screen re
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Heat engines (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit8_21s09_lec09))
+Heat engines (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 2c6b0d52-7594-7bbd-6be0-d181e10f12d8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -122,7 +122,7 @@ Heat engines (![This resource may not render correctly in a screen reader.](/ima
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Conversion I: Phase change energy conversion, refrigeration and heat pumps (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 3.5MB]({{< baseurl >}}/resources/mit8_21s09_lec10))
+Conversion I: Phase change energy conversion, refrigeration and heat pumps (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link b172949e-5728-814e-b3f2-f1989e38d570 "PDF - 3.5MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -131,7 +131,7 @@ Conversion I: Phase change energy conversion, refrigeration and heat pumps (![T
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Internal combustion engines (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit8_21s09_lec11))
+Internal combustion engines (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link b3352e9f-3737-b04d-c2d9-16a509927cc4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -140,7 +140,7 @@ Internal combustion engines (![This resource may not render correctly in a scree
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Conversion II: Steam and gas power cycles, the physics of power plants (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.9MB]({{< baseurl >}}/resources/mit8_21s09_lec12))
+Conversion II: Steam and gas power cycles, the physics of power plants (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 72fee2d5-e45a-5a09-9396-f386b74af4b0 "PDF - 2.9MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
