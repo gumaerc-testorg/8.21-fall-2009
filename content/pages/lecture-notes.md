@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics for the course along
+  with slides from the first part of the course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -50,7 +52,7 @@ Introduction ({{% resource_link 556f9fb1-12b6-3651-f88d-befdf0dad660 "PDF - 1.
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Units and scales of energy use (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 76bb428d-6455-f676-9501-ff959cc28fee "PDF - 1.1MB" %}})
+Units and scales of energy use ({{% resource_link 76bb428d-6455-f676-9501-ff959cc28fee "PDF - 1.1MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -77,7 +79,7 @@ Heat energy: Conversion between heat and mechanical energy ({{% resource_link c5
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Electromagnetic energy: Storage, conversion, transmission and radiation (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 8c884a2a-d2db-d3fe-7d76-25798d74ad8e "PDF - 7.7MB" %}})
+Electromagnetic energy: Storage, conversion, transmission and radiation ({{% resource_link 8c884a2a-d2db-d3fe-7d76-25798d74ad8e "PDF - 7.7MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -86,7 +88,7 @@ Electromagnetic energy: Storage, conversion, transmission and radiation (![This
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Quantum mechanics I: Intro to the quantum, energy quantization (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 1be66135-d420-fdb3-b5ec-0c84743d9b34 "PDF" %}})
+Quantum mechanics I: Intro to the quantum, energy quantization ({{% resource_link 1be66135-d420-fdb3-b5ec-0c84743d9b34 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -95,7 +97,7 @@ Quantum mechanics I: Intro to the quantum, energy quantization (![This resource 
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Energy in chemical systems and processes, flow of CO{{< sub "2" >}} (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 04f08eb5-8320-ae3d-6545-a493e4a32013 "PDF - 4.0MB" %}})
+Energy in chemical systems and processes, flow of CO{{< sub "2" >}} ({{% resource_link 04f08eb5-8320-ae3d-6545-a493e4a32013 "PDF - 4.0MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -104,7 +106,7 @@ Energy in chemical systems and processes, flow of CO{{< sub "2" >}} (![This res
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Entropy and temperature (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 64480493-c348-b180-53c7-23da0d41e264 "PDF" %}})
+Entropy and temperature ({{% resource_link 64480493-c348-b180-53c7-23da0d41e264 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -113,7 +115,7 @@ Entropy and temperature (![This resource may not render correctly in a screen re
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Heat engines (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 2c6b0d52-7594-7bbd-6be0-d181e10f12d8 "PDF" %}})
+Heat engines ({{% resource_link 2c6b0d52-7594-7bbd-6be0-d181e10f12d8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -122,7 +124,7 @@ Heat engines (![This resource may not render correctly in a screen reader.](/ima
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Conversion I: Phase change energy conversion, refrigeration and heat pumps (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link b172949e-5728-814e-b3f2-f1989e38d570 "PDF - 3.5MB" %}})
+Conversion I: Phase change energy conversion, refrigeration and heat pumps ({{% resource_link b172949e-5728-814e-b3f2-f1989e38d570 "PDF - 3.5MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -131,7 +133,7 @@ Conversion I: Phase change energy conversion, refrigeration and heat pumps (![T
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Internal combustion engines (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link b3352e9f-3737-b04d-c2d9-16a509927cc4 "PDF" %}})
+Internal combustion engines ({{% resource_link b3352e9f-3737-b04d-c2d9-16a509927cc4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -140,7 +142,7 @@ Internal combustion engines (![This resource may not render correctly in a scree
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Conversion II: Steam and gas power cycles, the physics of power plants (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 72fee2d5-e45a-5a09-9396-f386b74af4b0 "PDF - 2.9MB" %}})
+Conversion II: Steam and gas power cycles, the physics of power plants ({{% resource_link 72fee2d5-e45a-5a09-9396-f386b74af4b0 "PDF - 2.9MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
